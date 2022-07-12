@@ -5,11 +5,6 @@ This repository contains code for Agency Website in ReactJS.
 View Demo:
 https://react-agency.netlify.app/
 
-### Images of Website:
-![Sterling](https://github.com/full-time0/agency-website/blob/main/src/assets/Website%20Image-1.png)
-![Sterling](https://github.com/full-time0/agency-website/blob/main/src/assets/Website%20Image-3.png)
-![Sterling](https://github.com/full-time0/agency-website/blob/main/src/assets/Website%20Image-2.png)
-
 ### [ I appreciate if you give appropriate credit when using this Website for Commercial Use ]
 
 ### Resources Used in This Project
